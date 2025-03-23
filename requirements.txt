@@ -1,0 +1,14 @@
+langchain
+python-dotenv
+langchain-openai
+langchain_community
+bs4
+requests
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+faiss-cpu
+langchain_groq
+# python -m ipykernel install --user --name=my_env --display-name "Python (my_env)"
